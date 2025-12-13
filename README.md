@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17448671.svg)](https://doi.org/10.5281/zenodo.17448671)
 
-Artificial Intelligence Capital Ventures (AICV) is the origin point of the AI Systems Architect era.  
+Artificial Intelligence Capital Ventures (AICV) is the origin point of the A.I. Augmented Soverign Systems Architect era.  
 Founded by Elijah L. Cooley, AICV engineers human-aligned intelligence, builds scalable ventures,  
 and pioneers systems that harmonize human purpose with machine precision.
 
